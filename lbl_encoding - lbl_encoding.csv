@@ -1,0 +1,257 @@
+columns,key,value
+zone,south,1
+zone,north,2
+zone,southwest,3
+zone,central,4
+zone,west,5
+zone,east,6
+highest_ed_males,Graduate,1
+highest_ed_males,Secondary,3
+highest_ed_males,Primary,4
+highest_ed_males,Higher Secondary,2
+highest_ed_males,Illiterate,5
+highest_ed_females,Graduate,1
+highest_ed_females,Secondary,3
+highest_ed_females,Primary,4
+highest_ed_females,Higher Secondary,2
+highest_ed_females,Illiterate,5
+highest_ed_tg,0,0
+highest_ed_tg,Primary,4
+highest_ed_tg,Graduate,1
+primary_occu_males,Government (state/central/private/retired),1
+primary_occu_males,Informal Job / Hawker,6
+primary_occu_males,Retail / Livestock Related,5
+primary_occu_males,Administrative / Clerks,4
+primary_occu_males,0,0
+primary_occu_males,Business / Trade Industry,2
+primary_occu_males,Light / Small scale industry,3
+primary_occu_females,Government (state/central/private/retired),1
+primary_occu_females,0,0
+primary_occu_females,Informal Job / Hawker,6
+primary_occu_females,Business / Trade Industry,2
+primary_occu_females,Retail / Livestock Related,5
+primary_occu_females,Administrative / Clerks,4
+primary_occu_females,Light / Small scale industry,3
+Dwelling_Nature,Pucca,1
+Dwelling_Nature,Kuccha,3
+Dwelling_Nature,Semi-Pucca,2
+House_typology,Individual House,1
+House_typology,Squatter/Encroachment,3
+House_typology,Apartments,2
+Building level,Ground level,2
+Building level,Raised on Columns,1
+Floors_above,G only,6
+Floors_above,G + 2,4
+Floors_above,G + 3,3
+Floors_above,G + 1,5
+Floors_above,G + 4,2
+Floors_above,G + 5,1
+Road_type,Collector road,3
+Road_type,Sub-Arterial,2
+Road_type,Local roads,4
+Road_width,20-30 m,3
+Road_width,30-40 m,2
+Road_width,< 3 m,7
+Road_width,5-10 m,5
+Road_width,4-5 m,6
+Road_width,10-20 m,4
+Road_material,Bituminous roads,3
+Road_material,Earthen roads,1
+Road_material,Cement roads,4
+Road_material,Gravel roads,2
+Category,SC,3
+Category,General,1
+Category,OBC,2
+Category,ST,4
+Category,0,0
+Category,Others,5
+Duration_stay,40-60,4
+Duration_stay,10-25,2
+Duration_stay,25-40,3
+Duration_stay,<10,1
+Duration_stay,0,0
+Duration_stay,>60,5
+Age_house,10-25,2
+Age_house,0,0
+Age_house,25-40,3
+Age_house,40-60,4
+Age_house,<10,1
+Age_house,>60,5
+House_Ownership,Owner,1
+House_Ownership,Tenant,2
+Fam_Type,Joint,2
+Fam_Type,Nuclear,1
+Fam_Type,Multi-family,3
+Source_waterSupply,Municipal Corporation,1
+Source_waterSupply,Community Tap,2
+Source_waterSupply,Hand pump,3
+Source_waterSupply,Well,4
+Distance_watersupply_source,0,0
+Distance_watersupply_source,< 1 km,1
+Distance_watersupply_source,1-2 kms,2
+Distance_watersupply_source,3-5 kms,3
+Qlty_drinking_water_normal days,Satisfactory,2
+Qlty_drinking_water_normal days,Good,1
+Qlty_drinking_water_normal days,Poor,3
+Qlty_drinking_water_normal days,Bad,4
+Water_Quality_monsoons,Worsens,2
+Water_Quality_monsoons,Remains same,1
+Quantity_drinking water_normal days,Inadequate,3
+Quantity_drinking water_normal days,Just Adequate,2
+Quantity_drinking water_normal days,Ample,1
+Quantity_drinking water_normal days,0,0
+Quantity_drinking_water_during_flooding,Less / No Supply,2
+Quantity_drinking_water_during_flooding,Remains same,1
+Drinking_water_treatment,Chemicals,3
+Drinking_water_treatment,No Treatment,6
+Drinking_water_treatment,Boiling,4
+Drinking_water_treatment,Others,5
+Drinking_water_treatment,Filter,2
+Drinking_water_treatment,Aquaguard,1
+Drinking_water_treatment,0,0
+Issues_with_drinking_water_solved_by,Individually,4
+Issues_with_drinking_water_solved_by,City administration,1
+Issues_with_drinking_water_solved_by,Collectively as a community,2
+Issues_with_drinking_water_solved_by,0,0
+Issues_with_drinking_water_solved_by,Only few people take initiative,3
+Issues_with_drinking_water_solved_by,Issues remain unsolved,5
+Toilet_Facility,Community,2
+Toilet_Facility,Private,1
+Toilet_Facility,Open defecation,3
+Dist_community_toilets,1-2 km,2
+Dist_community_toilets,<1 km,1
+Dist_community_toilets,0,0
+Sewage_Disposal_System,Muncipal Connection,1
+Sewage_Disposal_System,None,4
+Sewage_Disposal_System,Pit Latrine,2
+Sewage_Disposal_System,Septic Tank,3
+Sewage_Disposal_System,0,0
+Drains_Situation,Covered,1
+Drains_Situation,Absent,3
+Drains_Situation,Open,2
+Drainage_channel_connected_to_city_network,Connected,1
+Drainage_channel_connected_to_city_network,Unaware,2
+Drainage_channel_connected_to_city_network,Not Connected,3
+Drainage_channel_connected_to_city_network,0,0
+Cleaning_agent,Residents,3
+Cleaning_agent,Municipal corporation,1
+Cleaning_agent,None,4
+Cleaning_agent,Contractors,2
+Cleaning_agent,0,0
+Frequency_of_drain_cleaning,Never,6
+Frequency_of_drain_cleaning,Monthly,3
+Frequency_of_drain_cleaning,Only when drains overflow,5
+Frequency_of_drain_cleaning,Weekly,1
+Frequency_of_drain_cleaning,0,0
+Frequency_of_drain_cleaning,Fortnightly,2
+Frequency_of_drain_cleaning,Yearly,4
+If_naturally_howMuchTime,6-12 Hours,2
+If_naturally_howMuchTime,<6 Hours,1
+If_naturally_howMuchTime,12 Hours - 1 Day,3
+If_naturally_howMuchTime,2 - 3 Days,4
+If_naturally_howMuchTime,0,0
+If_naturally_howMuchTime,>3 Days,5
+Electricity_Source,Municipal Corporation,1
+Electricity_Source,Illegal hooking,3
+Electricity_Source,Solar Power,2
+PowerCut_Frequency,High,3
+PowerCut_Frequency,Slightly Higher,2
+PowerCut_Frequency,Unchanged,1
+Proficiency_digital_services,Intermediate,3
+Proficiency_digital_services,Beginner,2
+Proficiency_digital_services,No Knowledge,1
+Proficiency_digital_services,Expert,4
+television,Yes,1
+television,No,2
+computer_laptop,No,2
+computer_laptop,Yes,1
+internet_connectivity,No,2
+internet_connectivity,Yes,1
+radio,No,2
+radio,Yes,1
+mobile,Yes,1
+mobile,No,2
+bi-cycle,No,2
+bi-cycle,Yes,1
+motorised,Yes,1
+motorised,No,2
+no_assets,No,2
+no_assets,Yes,1
+Health_Infra_Distance,3-5 km,3
+Health_Infra_Distance,1-3 km,2
+Health_Infra_Distance,<1 km,1
+Health_Infra_Distance,Not Available,5
+Health_Infra_Distance,> 5 kms,4
+Dist_to_bank,1-3 km,2
+Dist_to_bank,< 1 km,1
+Dist_to_bank,Not Available,5
+Dist_to_bank,3 - 5 kms,3
+Garbage_collection_Authority,Residents,3
+Garbage_collection_Authority,Municipal corporation,1
+Garbage_collection_Authority,None,4
+Garbage_collection_Authority,Private Contractor,2
+Garbage_collection_Authority,0,0
+Garbage_Disposal_System,Put in pits and burnt,5
+Garbage_Disposal_System,Dumped in the water bodies,6
+Garbage_Disposal_System,Door-to-Door,1
+Garbage_Disposal_System,Community Bin,2
+Garbage_Disposal_System,Roadside dumping and no cleaning,4
+Garbage_Disposal_System,Road side dumping picked by NMC,3
+Garbage_dispsl_during_flood,Spills out into flooded roads,3
+Garbage_dispsl_during_flood,Same as normal days,1
+Garbage_dispsl_during_flood,Remains dumped- no pick up,2
+Frequency_GarbageCollection_Nrml_days,Only when drains overflow and residents call,5
+Frequency_GarbageCollection_Nrml_days,Never,6
+Frequency_GarbageCollection_Nrml_days,Daily,1
+Frequency_GarbageCollection_Nrml_days,Fortnightly,3
+Frequency_GarbageCollection_Nrml_days,Monthly,4
+Frequency_GarbageCollection_Nrml_days,Weekly,2
+Frequency_GarbageCollection_Nrml_days,0,0
+Flood_events_experienced,>5 & more,5
+Flood_events_experienced,3,3
+Flood_events_experienced,1,1
+Flood_events_experienced,2,2
+Flood_events_experienced,4,4
+Flood_events_experienced,Every monsoon,6
+Flood_events_experienced,0,0
+Depth_water_logging,1-1/2 ft,3
+Depth_water_logging,1 ft,2
+Depth_water_logging,> 2 ft,4
+Depth_water_logging,6 inch or below,1
+Depth_water_logging,0,0
+Water_removal_process,Naturally,1
+Water_removal_process,Manually,2
+Water_removal_process,Mechanically,3
+Evacuated_before,No,1
+Evacuated_before,Yes,2
+Dist_to_evacuated_area,0,0
+Dist_to_evacuated_area,> 5 km,4
+Dist_to_evacuated_area,1 - 3 km,2
+Dist_to_evacuated_area,3 - 5 km,3
+Dist_to_evacuated_area,<1 km,1
+Medical_conditions_during_ waterLogging,Yes,2
+Medical_conditions_during_ waterLogging,No,1
+Loss_working_days_during_floods,1-3 Days,2
+Loss_working_days_during_floods,4-6 Days,3
+Loss_working_days_during_floods,> 7 Days,4
+Loss_working_days_during_floods,No loss,1
+Income_loss_per_day,40-60%,4
+Income_loss_per_day,20-40%,3
+Income_loss_per_day,>80%/almost full,6
+Income_loss_per_day,Negligible/<20%,2
+Income_loss_per_day,0,0
+Income_loss_per_day,60-80%,5
+Income_loss_per_day,No loss,1
+Experience _with_flood,10-25 years,4
+Experience _with_flood,<10 years,5
+Experience _with_flood,25-40 years,3
+Experience _with_flood,0,0
+Experience _with_flood,>50 years,1
+Experience _with_flood,40 - 50 Years,2
+Financial_loss_due_to floods,2000-6000,3
+Financial_loss_due_to floods,10000-15000,5
+Financial_loss_due_to floods,<2000,2
+Financial_loss_due_to floods,No loss but a lot of inconvenience,1
+Financial_loss_due_to floods,0,0
+Financial_loss_due_to floods,6000-10000,4
+Financial_loss_due_to floods,>15000,6
